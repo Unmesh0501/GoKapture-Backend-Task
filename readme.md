@@ -14,18 +14,18 @@ x`# Task Management Application (GoKapture Backend Assignment)
 
 ## Tech Stack
 
-- **Backend**: Node.js with TypeScript, Express.js
-- **Database**: PostgreSQL
-- **ORM**: Prisma
-- **Authentication**: JWT
-- **Validation**: Zod
+- **Backend**: Node.js with TypeScript using Express.js framework for building the RESTful API.
+- **Database**: PostgreSQL as the relational database for storing user and task data.
+- **ORM**: Prisma ORM for managing database operations with type safety and migrations.
+- **Authentication**: JWT for secure user authentication and authorization.
+- **Validation**: Zod for request data validation
 
 ## Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/pranav-2002/GoKapture-Backend-Task
+   git clone https://github.com/Unmesh0501/GoKapture-Backend-Task.git
    cd GoKapture-Backend-Task
    ```
 
